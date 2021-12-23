@@ -1,0 +1,2 @@
+JMH S 23 org.example.DSBenchmark S 60 org.example.jmh_generated.DSBenchmark_ConnBenchmark1_jmhTest S 14 ConnBenchmark1 S 10 Throughput I 2 16 A 1 1 1 E I 1 5 T 4 40 s E I 1 5 T 4 40 s E I 1 1 E E E E E E U 7 SECONDS E E 
+JMH S 23 org.example.DSBenchmark S 60 org.example.jmh_generated.DSBenchmark_SyncBenchmark1_jmhTest S 14 SyncBenchmark1 S 10 Throughput I 2 16 A 1 1 1 E I 1 5 T 4 40 s E I 1 5 T 4 40 s E I 1 1 E E E E E E U 7 SECONDS E E 

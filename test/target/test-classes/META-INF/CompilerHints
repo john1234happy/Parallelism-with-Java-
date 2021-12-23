@@ -1,0 +1,9 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,org/example/DSBenchmark$MyState.doSetup
+inline,org/example/DSBenchmark$MyState.doTearDown
+inline,org/example/DSBenchmark.ConnBenchmark1
+inline,org/example/DSBenchmark.SyncBenchmark1
